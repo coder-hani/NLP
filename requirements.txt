@@ -1,0 +1,11 @@
+nltk
+spacy
+gensim
+sklearn
+pandas
+numpy
+matplotlib
+pyLDAvis
+pyclustering
+plac
+pathlib
